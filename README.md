@@ -12,7 +12,7 @@ After Making the analysis we reached the following insights:
 
 4- Implementing literacy training programs within companies to reduce the rate of illiteracy and enhance employee education.
 
-2. Project Overview
+1. Project Overview
 
 This data analysis project seeks to move beyond evidence and provide a clear, data-driven perspective on the state of Egypt's workforce. By systematically collecting, cleaning, and analysing relevant datasets from national labour force surveys and educational statistics to economic indicators and private sector reports, and presenting the insights by the storytelling technique, as we aim to uncover the underlying patterns and trends shaping employment in Egypt.
 
