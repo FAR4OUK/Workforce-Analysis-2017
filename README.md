@@ -3,12 +3,16 @@
 
 0. The Act Phase: Driving Business Value
 After Making the analysis we reached the following insights:
+
 1- Increased the operation percentage for females by 7%.
+   
 2- Awareness courses and seminars were organized for every freelancer to educate them about their right to receive payment for work, regardless of its size. Consequently, the percentage of individuals not being paid on freelance platforms has been reduced by 10%.
+
 3-Providing more suitable employment opportunities for women across various sectors.
+
 4- Implementing literacy training programs within companies to reduce the rate of illiteracy and enhance employee education.
 
-1. Project Overview
+2. Project Overview
 
 This data analysis project seeks to move beyond evidence and provide a clear, data-driven perspective on the state of Egypt's workforce. By systematically collecting, cleaning, and analysing relevant datasets from national labour force surveys and educational statistics to economic indicators and private sector reports, and presenting the insights by the storytelling technique, as we aim to uncover the underlying patterns and trends shaping employment in Egypt.
 
