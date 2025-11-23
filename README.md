@@ -2,7 +2,10 @@
 
 
 0. The Act Phase: Driving Business Value
+
+
 After Making the analysis we reached the following insights:
+
 
 1- Increased the operation percentage for females by 7%.
    
@@ -12,9 +15,13 @@ After Making the analysis we reached the following insights:
 
 4- Implementing literacy training programs within companies to reduce the rate of illiteracy and enhance employee education.
 
+
+
 1. Project Overview
 
 This data analysis project seeks to move beyond evidence and provide a clear, data-driven perspective on the state of Egypt's workforce. By systematically collecting, cleaning, and analysing relevant datasets from national labour force surveys and educational statistics to economic indicators and private sector reports, and presenting the insights by the storytelling technique, as we aim to uncover the underlying patterns and trends shaping employment in Egypt.
+
+
 
 2. Key Questions We Answered
 
@@ -26,8 +33,9 @@ What is the total size of the workforce in Egypt compared to the total populatio
 
 Based on the current demographic and geographic structure of the workforce, what are the key opportunities and challenges facing the Egyptian labor market?
 
-3. Data Sources
 
+
+3. Data Sources
 
 Data Source:The data was collected from the official website of the Central Agency for Public Mobilization and Statistics (CAPMAS) and The Egyptian Center for Economic studies (ECES).
 Our Data:
@@ -35,6 +43,7 @@ Our Data:
 1-Population Census and Housing Conditions (Extended Form)Governorates
 2-Economic Statistics Handbook of the Arab Republic of Egypt
 3-UNVEILING THE SECRETS OF FREELANCING SUCCESS: COMPARATIVE STUDY OF EGYPT AND INDIA
+
 
 
 4- Technology Used:
