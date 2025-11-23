@@ -3,7 +3,7 @@
 
 0. The Act Phase: Driving Business Value
 After Making the analysis we reached the following insights:
-1- Increased the operation percentage for females by 7%ز
+1- Increased the operation percentage for females by 7%.
 2- Awareness courses and seminars were organized for every freelancer to educate them about their right to receive payment for work, regardless of its size. Consequently, the percentage of individuals not being paid on freelance platforms has been reduced by 10%.
 3-Providing more suitable employment opportunities for women across various sectors.
 4- Implementing literacy training programs within companies to reduce the rate of illiteracy and enhance employee education.
