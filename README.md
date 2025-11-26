@@ -38,11 +38,15 @@ Based on the current demographic and geographic structure of the workforce, what
 3. Data Sources
 
 Data Source:The data was collected from the official website of the Central Agency for Public Mobilization and Statistics (CAPMAS) and The Egyptian Center for Economic studies (ECES).
+
 Our Data:
 
 1-Population Census and Housing Conditions (Extended Form)Governorates
+
 2-Economic Statistics Handbook of the Arab Republic of Egypt
+
 3-UNVEILING THE SECRETS OF FREELANCING SUCCESS: COMPARATIVE STUDY OF EGYPT AND INDIA
+
 
 
 
